@@ -1,0 +1,6 @@
+06/02/2023 - Someone - 0.34567
+06/06./2023 - Someone Else - 0.18244
+06/07/2023 - Something - 1.60006
+06/14/2023 - Something Else - 2.50010
+06/23/2023 - Test Name - 0.24
+06/24/2023 - Validated Successfully - 0.00101
